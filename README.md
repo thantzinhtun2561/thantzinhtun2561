@@ -1,6 +1,6 @@
 <h1>Hi! there 👋 </h1></br>
 
-<h2>⌨ Currently focusing on learning Frontend and Backend technologies.</h2>
+<h2>⌨ My ultimate dream is to become a professional Software Engineer...</h2>
 
 ---
 
