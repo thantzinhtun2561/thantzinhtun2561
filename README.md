@@ -4,9 +4,9 @@
 
 ---
 
-<img width="4624" height="3472" alt="My_Computer_SetUp" src="https://github.com/user-attachments/assets/d01e8300-9af5-42b4-bef6-9ed4b33b013e" />
-
 <img width="1845" height="3358" alt="IMG_20260619_195154" src="https://github.com/user-attachments/assets/d1b95cfa-1ed4-4aad-b882-36f9f4afdeec" />
+
+<img width="4624" height="3472" alt="My_Computer_SetUp" src="https://github.com/user-attachments/assets/d01e8300-9af5-42b4-bef6-9ed4b33b013e" />
 
 <img width="527" height="947" alt="IMG_20260619_200529" src="https://github.com/user-attachments/assets/bb45c29c-9c01-41a0-92da-7d9b38a262ba" />
 
